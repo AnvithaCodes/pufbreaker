@@ -180,7 +180,7 @@ accuracy = mlp_attack.score(X_test, y_test)
 ![Attack Results](examples/notebooks/screenshots/comparison.png)
 
 ### Test results
-![Test Output](examples/notebooks/screenshots/test_results.png)
+![Test Output](examples/notebooks/screenshots/test_output.png)
 
 
 ## Use cases
